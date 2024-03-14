@@ -365,7 +365,10 @@
               "Accept": "application/json",
           },
       })
-      .then(response => console.log(response))
+      .then(response => {console.log(response)
+        alert("Your message has been sent successfully! 🚀 Thank you for reaching out. We'll get back to you as soon as possible.");
+              document.getElementById("form").reset();
+            })
       .catch(error => console.log(error))
   }
 </script>
