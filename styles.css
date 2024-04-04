@@ -453,16 +453,16 @@ a{
     background-image: url(./images/projects/Screenshot\ 2023-09-20\ 084942.png);
   }
 
-  #project2{
+  #project3{
     margin-left:120px;
     background-image: url(./images/projects/dalle.png);
   }
-  #project3{
+  #project4{
     background-image: url(./images/projects/netflix.png);
   }
-  #project4{
+  #project2{
     margin-left:120px;
-    background-image: url(./images/projects/Screenshot\ 2023-09-21\ 081152.png);
+    background-image: url(./images/projects/pixelhub.png);
   }
 
   @media (max-width:1300px) {
